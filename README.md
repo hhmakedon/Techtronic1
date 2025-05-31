@@ -8,6 +8,6 @@ My hometown is Chicago🏢 even though I wasn't born there<br>
 Email me : gzambrana@cps.edu
 I love art of all forms, whether its music, painting, scuplture, design, comics, the list can go on (I am pretty much obsessed).
 🦇
-<img src = "https://www.previewsworld.com/SiteImage/MainImage/STL121029.jpg">
+<img src = "https://www.previewsworld.com/SiteImage/MainImage/STL121029.jpg" height="200" width="200">
 
 ![A logo with George Zambrana Teacher Status](https://github.com/Techtronic1/Techtronic1/blob/main/assets/gz_tech.png)
